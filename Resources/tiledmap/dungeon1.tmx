@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="160" height="160" tilewidth="50" tileheight="50" infinite="0" nextlayerid="15" nextobjectid="1">
+ <properties>
+  <property name="createTileLayersFromMap" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="dungeon1" tilewidth="50" tileheight="50" spacing="4" margin="4" tilecount="225" columns="15">
+  <image source="dungeon1.png" width="814" height="814"/>
+ </tileset>
+ <layer id="1" name="groundLayer0" width="160" height="160">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAE+3SOREAMBCAwMvjX3PiggIKZg2wZmb/Vibg+d1MSPr/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/plv4/3dL/p1v6/3RL/59u6f/TLf1/uqX/T7f0/+mW/j/d0v+nW/r/dEv/n27p/9Mt/X+6pf9Pt/T/6Zb+P93S/6db+v90S/+fbun/0y39f7ql/0+39P/p9gHQWErYAJABAA==
+  </data>
+ </layer>
+</map>
